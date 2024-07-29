@@ -1,0 +1,1 @@
+CALL `project-rockingdata.dataset_rd.get_top_5_longest_movies`({year});
